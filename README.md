@@ -1,2 +1,2 @@
-#heading
-#this is a sentence
+# Heading
+# this is a sentence
